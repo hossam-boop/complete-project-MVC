@@ -1,0 +1,60 @@
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\BLL.deps.json
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\BLL.dll
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\BLL.pdb
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\DAL.dll
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\DAL.pdb
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.dll
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\refint\BLL.dll
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.pdb
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\BLL\obj\Debug\net5.0\ref\BLL.dll

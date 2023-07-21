@@ -1,0 +1,48 @@
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\bin\Debug\net5.0\DAL.deps.json
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\bin\Debug\net5.0\DAL.dll
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\bin\Debug\net5.0\DAL.pdb
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.dll
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\refint\DAL.dll
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.pdb
+F:\Hossam\wed\Back End\C#\06 ASP Core MVC\Session 03\assignment\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\ASPCoreMVCAssignment02\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment02\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\Assignment03\DAL\obj\Debug\net5.0\ref\DAL.dll

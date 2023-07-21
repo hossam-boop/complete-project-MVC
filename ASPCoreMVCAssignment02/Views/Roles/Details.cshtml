@@ -1,0 +1,19 @@
+﻿@model IdentityRole
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Role Details</h1>
+
+<div>
+
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" readonly />
+    </div>
+    <a asp-action="Update" asp-route-id="Id" >Edit</a> |
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+</div>
+
+
